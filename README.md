@@ -1,1 +1,1 @@
-# PCB-Design-of-blinking-led-circuit
+# PCB Design of blinking led circuit in KiCad
